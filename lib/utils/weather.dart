@@ -7,7 +7,7 @@ import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:hexcolor/hexcolor.dart';
 import 'package:http/http.dart';
 
-const apiKey = '48fd18acd989acf3c98457e127f1cc6d';
+const apiKey = 'enteryourapikey';
 
 class DisplayWeatherData {
   final AssetImage weatherIcon;
